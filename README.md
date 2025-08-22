@@ -1,4 +1,4 @@
-# Hi there! My name is Yucheng.👋
+<h1 align="center">Hi there! My name is Yucheng.👋</h1>
 
 - 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and Business Administration at the University of Southern California (USC), graduating Spring 2027.  
 - 💻 I've **built full-stack applications**, including a food delivery platform (Spring Boot + Vue + Redis), a real-time chat app, and a data analytics dashboard.  
