@@ -20,7 +20,6 @@
 **Frameworks & Tools**  
 <p>
   <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,flask" />
-  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/gradle/02303A" width="40" height="40"/>
 </p>
