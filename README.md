@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
+My name is Yucheng!
 
-<!--
-**yucheng1554439/yucheng1554439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and Business Administration at the University of Southern California.
+- 💻 Interested in SWE, backend systems, and distributed computing
+- 🌱 Currently learning Spring Boot, Docker, and Cloud
+- 📫 Reach me at: [Email](mailto:youremail@gmail.com) | [LinkedIn](https://linkedin.com/in/yourlink)
 
-Here are some ideas to get you started:
+## 🔧 Skills
+![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![Java](https://img.shields.io/badge/-Java-orange?logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
+![Spring](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
