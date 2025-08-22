@@ -1,9 +1,13 @@
 <h1 align="center">Hi there! My name is Yucheng.👋</h1>
 
-- 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and Business Administration at the University of Southern California (USC), graduating Spring 2027.  
-- 💻 I've **built full-stack applications**, including a food delivery platform (Spring Boot + Vue + Redis), a real-time chat app, and a data analytics dashboard.  
-- ☁️ Skilled in **backend systems, distributed computing, cloud technologies, and data visualization**.  
-- 🔍 I'm actively looking for a **Summer 2026 SWE internship** in backend or full-stack development.  
+- 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and Business Administration at the University of Southern California (USC), graduating Spring 2027.
+- 
+- 💻 I've **built full-stack applications**, including a food delivery platform (Spring Boot + Vue + Redis), a real-time chat app, and a data analytics dashboard.
+- 
+- ☁️ Skilled in **backend systems, distributed computing, cloud technologies, and data visualization**.
+- 
+- 🔍 I'm actively looking for a **Summer 2026 SWE internship** in backend or full-stack development.
+- 
 - 📫 Reach out via Email: yzhao635@usc.edu    LinkedIn: [Yucheng Zhao](https://www.linkedin.com/in/yucheng-zhao-387638253/)  
 
 ## 🔧 Skills
