@@ -44,3 +44,29 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white&style=flat-square)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=flat-square)
 
+## 🔧 Skills
+
+**Languages**  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript" />
+</p>
+
+**Frameworks & Libraries**  
+<p>
+  <img src="https://skillicons.dev/icons?i=springboot,react,nodejs,express,flask" />
+</p>
+
+**Databases & Storage**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb" />
+</p>
+
+**DevOps & Cloud**  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws" />
+</p>
+
+**Tools & Platforms**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
