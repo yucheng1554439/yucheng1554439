@@ -5,8 +5,7 @@ My name is Yucheng.
 - 💻 I've **built full-stack applications**, including a food delivery platform (Spring Boot + Vue + Redis), a real-time chat app, and a data analytics dashboard.  
 - ☁️ Skilled in **backend systems, distributed computing, cloud technologies, and data visualization**.  
 - 🔍 I'm actively looking for a **Summer 2026 SWE internship** in backend or full-stack development.  
-- 📫 Reach out via Email: yzhao635@usc.edu
--     LinkedIn: [Yucheng Zhao](https://www.linkedin.com/in/yucheng-zhao-387638253/)  
+- 📫 Reach out via Email: yzhao635@usc.edu    LinkedIn: [Yucheng Zhao](https://www.linkedin.com/in/yucheng-zhao-387638253/)  
 
 ## 🔧 Skills
 
