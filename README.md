@@ -8,7 +8,6 @@ My name is Yucheng.
 - 📫 Reach out via Email: [yzhao635@usc.edu] or LinkedIn: [Yucheng Zhao]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/yucheng-zhao-387638253/))  
 
 ## 🔧 Skills
-## 🔧 Skills
 
 **Programming Languages**  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
