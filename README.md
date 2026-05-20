@@ -6,7 +6,7 @@
   
 - ☁️ Skilled in **backend systems, distributed computing, cloud technologies, and data visualization**.
   
-- 🔍 I'm actively looking for a **Summer 2026 SWE internship** in backend or full-stack development.
+- 🔍 I'm actively looking for a **Fall 2026 SWE internship** in backend or full-stack development.
   
 - 📫 Reach out via Email: yzhao635@usc.edu    LinkedIn: [Yucheng Zhao](https://www.linkedin.com/in/yucheng-zhao-387638253/)  
 
