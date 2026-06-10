@@ -1,12 +1,20 @@
 <h1 align="center">Hi there! My name is Yucheng.👋</h1>
 
-- 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and Business Administration at the University of Southern California (USC), graduating Spring 2027.
-  
-- 💻 I've **built full-stack applications**, including a food delivery platform (Spring Boot + Vue + Redis), a real-time chat app, and a data analytics dashboard.
-  
-- ☁️ Skilled in **backend systems, distributed computing, cloud technologies, and data visualization**.
-  
-- 🔍 I'm actively looking for a **Fall 2026 SWE internship** in backend or full-stack development.
+- 🎓 Computer Science & Business Administration student at the University of Southern California (USC), graduating Spring 2027.
+
+- 🚀 Software Engineer focused on backend infrastructure, distributed systems, workflow automation, and AI-powered applications.
+
+- ⚡ Built production-style systems including:
+  - EventFlow — Distributed Event Processing Platform (Kafka, Kubernetes, Terraform)
+  - Your News — AI Intelligence Platform (LLM workflows, retrieval, ranking, caching)
+  - GovFlow — Workflow Automation & Case Management Platform
+  - ArchLens — AI System Design Visualizer
+
+- 🏗️ Experienced in designing scalable backend services, event-driven architectures, data-processing pipelines, and cloud-native applications.
+
+- 💻 Tech Stack: Go, Java, Python, TypeScript, PostgreSQL, Redis, Kafka, Kubernetes, Terraform, AWS.
+
+- 🔍 Currently seeking Fall 2026 Software Engineering internships focused on backend, infrastructure, distributed systems, platform engineering, or AI product engineering.
   
 - 📫 Reach out via Email: yzhao635@usc.edu    LinkedIn: [Yucheng Zhao](https://www.linkedin.com/in/yucheng-zhao-387638253/)  
 
